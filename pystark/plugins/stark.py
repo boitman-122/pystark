@@ -51,7 +51,7 @@ Developer : @StarkProgrammer
 """
 
 HOME_BUTTON = [
-    [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
+    [InlineKeyboardButton(text="🏠 Return Home ", callback_data="home")]
 ]
 
 MAIN_BUTTONS = [
